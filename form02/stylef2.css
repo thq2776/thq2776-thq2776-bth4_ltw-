@@ -1,0 +1,34 @@
+*{
+    font-family:Tahoma;
+    font-size: 11pt;
+}
+th{
+    font-size: 13pt;
+    background: red;
+}
+button{
+    background: red;
+}
+table{
+    border: 1px solid red;
+    border-collapse: collapse;
+
+    background-image: linear-gradient(to right, cyan,black);
+}
+td{
+    padding:5px;
+
+    
+}
+input{
+    padding:5px;
+    width: 250px;
+    background-color: transparent;
+
+}
+button{
+    padding: 5px 15px;
+    border:1px solid rgb(61, 17, 17);
+    color: white;
+    background-color: transparent;
+}
